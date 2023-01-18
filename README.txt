@@ -1,30 +1,3 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hi there, I'm Vanya! 
 
-
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Throughout my college career, I found that I enjoyed brainstorming solutions for difficult problems. This stems from a lifelong passion of wanting to find ways to help and make a positive impact on others. While I was doing my undergrad, I was introduced to SQL and Python programming languages. Being able to write a block of code that was seamlessly understood and answered by the computer immediately triggered a spark of curiosity within me. Since then I have been eager to find all the ways I can use code to positively impact others.

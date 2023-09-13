@@ -1,3 +1,0 @@
-Hi there, I'm Vanya! 
-
-Throughout my college career, I found that I enjoyed brainstorming solutions for difficult problems. This stems from a lifelong passion of wanting to find ways to help and make a positive impact on others. While I was doing my undergrad, I was introduced to SQL and Python programming languages. Being able to write a block of code that was seamlessly understood and answered by the computer immediately triggered a spark of curiosity within me. Since then I have been eager to find all the ways I can use code to positively impact others.
